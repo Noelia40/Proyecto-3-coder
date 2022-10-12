@@ -1,0 +1,20 @@
+body {
+    width: 100vw;
+    height: 230vh;
+}
+
+header {
+    height: 40vh;
+}
+
+#nav {
+    height: 10vh;
+}
+
+main {
+    height: 180vh;
+}
+
+footer {
+    height: 10vh;
+}
